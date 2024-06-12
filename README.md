@@ -1,5 +1,5 @@
 - 👋 Hi, I am Pelumi.
-- 🌱 I’m currently learning all things data!
+- 🌱 I’m currently learning all things data (Data Science & Data Analytics)!
 - 📫 How to reach me email: o.oluwapelumi94@yahoo.com
 
 <!---
